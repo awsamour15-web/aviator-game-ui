@@ -1,0 +1,6 @@
+{
+  "name": "Aviator Telegram Crash Game",
+  "description": "Real-time Aviator crash game for Telegram Bot with live multiplier, secure betting, leaderboards, and historical logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
